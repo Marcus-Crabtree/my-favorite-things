@@ -5,3 +5,4 @@ Wrestling
 UFC
 NHL
 soccer
+other
