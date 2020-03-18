@@ -6,3 +6,4 @@ UFC
 NHL
 soccer
 other
+sports
